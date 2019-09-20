@@ -7,8 +7,9 @@ For the implementation of this project, I will be using the following hardware:
 4x Rubber wheels
 2x 5v DC motors
 1x motor controller
-1x 5V power bank
+1x 12V power bank
 1x Main frame 
+1x L298N H-Bridge motor controller
 xx cables and miscellaneous
 
 
