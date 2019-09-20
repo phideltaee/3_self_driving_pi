@@ -1,7 +1,8 @@
 This project aims to develop a self-driving car using code from python libraries (opencv, tensorflow, keras)
 and to merge them with hardware solutions. 
+[alt text](http://url/to/img.png)
 
-For the implementation of this project, I will be using the following hardware:
+For the implementation of this project, I will be using the following hardware: T
 
 1x Raspberry pi 3B+
 4x Rubber wheels
