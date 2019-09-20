@@ -1,7 +1,7 @@
 This project aims to develop a self-driving car using code from python libraries (opencv, tensorflow, keras)
 and to merge them with hardware solutions. 
 
-[progress of the self-driving-pi platform](/blob/master/cover_photo.png?raw=true "self driving pi")
+[progress of the self-driving-pi platform](/master/cover_photo.png?raw=true "self driving pi")
 
 The hardware construction and the code can be found in the upcoming medium blog posts, where I walk through the process of building, connecting and troubleshooting the self-driving pi. 
 
