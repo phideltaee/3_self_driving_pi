@@ -1,6 +1,10 @@
 This project aims to develop a self-driving car using code from python libraries (opencv, tensorflow, keras)
 and to merge them with hardware solutions. 
-[alt text](http://url/to/img.png)
+
+[progress of the self-driving-pi platform](https://github.com/phideltaee/3_self_driving_pi/cover_photo.png)
+
+The hardware construction and the code can be found in the upcoming medium blog posts, where I walk through the process of building, connecting and troubleshooting the self-driving pi. 
+
 
 For the implementation of this project, I will be using the following hardware: T
 
@@ -11,7 +15,7 @@ For the implementation of this project, I will be using the following hardware: 
 1x 12V power bank
 1x Main frame 
 1x L298N H-Bridge motor controller
-xx cables and miscellaneous
+ x cables and miscellaneous
 
 
 
